@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @muna-mohammed
-- 👀 I’m interested in Machine learning & Data science
-- 🌱 I’m currently learning python, machine learning, and statistics.
-- 💞️ I’m looking to collaborate on data science/ ML projects.
+- 👀 I’m interested in Data analytics. 
+- 🌱 I’m currently learning python, SQL, Tabluea, mahcine leaning. 
+- 💞️ I’m looking to collaborate on data science/ analytics projects.
 - 📫 How to reach me by e-mail: munamohammed963@gmail.com
 
 <!---
