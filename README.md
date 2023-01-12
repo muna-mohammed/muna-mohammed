@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @muna-mohammed
+- 👋 Hi, I’m Muna.
 - 👀 I’m interested in Data Science/Analytics.
 - 🌱 I’m currently learning python, SQL, Tabluea, mahcine leaning. 
 - 💞️ I’m looking to collaborate on data science/ analytics projects.
